@@ -1,0 +1,1 @@
+input("O joão é legal? - ")
